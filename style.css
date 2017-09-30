@@ -24,4 +24,9 @@ h3{
   font-size: 28px;
   Color: ChineseWhite;
 }
-
+#content-profile{
+  border: 1px dashed white;
+}
+#content-experience{
+  border: 1px dashed white;
+}
