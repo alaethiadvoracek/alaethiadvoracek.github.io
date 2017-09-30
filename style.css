@@ -10,7 +10,8 @@
   text-align: left; 
 }
 
-
+#content-experience{
+  
 h1{
   font-family: 'Lato', sefif;
   Color: Carcoal;
@@ -30,4 +31,5 @@ ul{
   font-family: Georgia, serif;
   Color: blueberry; 
   font-size: 24px;
+}
 }
