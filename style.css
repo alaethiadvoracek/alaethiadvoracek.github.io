@@ -12,7 +12,7 @@
 h1{
   font-family: Tempus Sans ITC, sans-serif; 
   Color: AntiqueWhite;
-  font-size: 48px;
+  font-size: 50px;
 }
 h2{
   font-family: Tempus Sans ITC, sans-serif;
@@ -23,6 +23,7 @@ h3{
   font-family: Tempus Sans ITC, sans-serif;
   Color:DeepSkyBlue ;
   font-size: 26px;
+  margin-bottom: -20px;
 }
 h4{
   font-family: Tempus Sans ITC, sans-serif;
