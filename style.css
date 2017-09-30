@@ -18,6 +18,7 @@ h2{
   font-family: Tempus Sans ITC, sans-serif;
   Color: AntiqueWhite;
   font-size: 36px;
+  margin-bottom: -15px;
 }
 h3{
   font-family: Tempus Sans ITC, sans-serif;
@@ -29,7 +30,7 @@ h4{
   font-family: Tempus Sans ITC, sans-serif;
   Color: DeepSkyBlue;
   font-size: 22px;
-  margin-bottom: -30px;
+  margin-bottom: -23px;
 ul{
   font-family: Times New Roman, sans-serif;
   Color: white;
