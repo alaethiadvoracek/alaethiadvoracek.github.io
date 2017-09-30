@@ -11,12 +11,12 @@
 }
 h1{
   font-family: Tempus Sans ITC, sans-serif; 
-  Color: AntiqueWhite;
+  Color: White;
   font-size: 50px;
 }
 h2{
   font-family: Tempus Sans ITC, sans-serif;
-  Color: AntiqueWhite;
+  Color: White;
   font-size: 36px;
   margin-bottom: -15px;
 }
@@ -31,14 +31,15 @@ h4{
   Color: DeepSkyBlue;
   font-size: 20px;
   margin-bottom: -15px;
+}
 ul{
   font-family: Times New Roman, sans-serif;
-  Color: SkyBlue;
+  Color: AntiqueWhite;
   font-size: 18px;
 }
 p{
   font-family: Times New Roman, sans-serif;
-  Color: SkyBlue;
+  Color: AntiqueWhite;
   font-size: 22px;
   margin-bottom: -15px;
 }
