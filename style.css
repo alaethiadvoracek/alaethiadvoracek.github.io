@@ -24,10 +24,14 @@ h3{
   Color:DeepSkyBlue ;
   font-size: 26px;
 }
+h4{
+  font-family: Tempus Sans ITC, sans-serif;
+  Color: DeepSkyBlue;
+  font-size: 22px;
 ul{
   font-family: Times New Roman, sans-serif;
   Color: AliceBlue;
-  font-size: 24px;
+  font-size: 18px;
 }
 p{
   font-family: Times New Roman, sans-serif;
