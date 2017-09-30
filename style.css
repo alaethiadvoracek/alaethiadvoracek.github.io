@@ -10,8 +10,22 @@
   text-align: left; 
 }
 h1{
-  font-family: Veranda, serif; 
+  font-family: Tempus Sans ITC, sans-serif; 
   Color: AntiqueWhite;
   font-size: 48px;
 }
-
+h2{
+  font-family: Times New Roman, sans-serif;
+  Color: DeepSkyBlue;
+  font-size: 36px;
+}
+h3{
+  font-family: Times New Roman, sans-serif;
+  Color: black;
+  font-size: 28px;
+}
+ul{
+  font-family: Times New Roman, sans-serif;
+  Color: grey;
+  font-size: 24px;
+}
