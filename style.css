@@ -21,10 +21,15 @@ h2{
 }
 h3{
   font-family: Times New Roman, sans-serif;
-  Color: black;
+  Color:AntiqueWhite ;
   font-size: 28px;
 }
 ul{
+  font-family: Times New Roman, sans-serif;
+  Color: grey;
+  font-size: 24px;
+}
+p{
   font-family: Times New Roman, sans-serif;
   Color: grey;
   font-size: 24px;
