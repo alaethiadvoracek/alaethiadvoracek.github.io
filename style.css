@@ -6,7 +6,7 @@
   padding: 10px 150px 10px 150px;
   
   border-radius: 15px;
-  background-color: Violet;
+  background-color: Navy;
   text-align: left; 
 }
 h1{
@@ -16,7 +16,7 @@ h1{
 }
 h2{
   font-family: Tempus Sans ITC, sans-serif;
-  Color: DeepSkyBlue;
+  Color: AntiqueWhite;
   font-size: 36px;
 }
 h3{
@@ -26,11 +26,11 @@ h3{
 }
 ul{
   font-family: Times New Roman, sans-serif;
-  Color: grey;
+  Color: AliceBlue;
   font-size: 24px;
 }
 p{
   font-family: Times New Roman, sans-serif;
-  Color: grey;
+  Color: AliceBlue;
   font-size: 24px;
 }
