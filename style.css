@@ -9,6 +9,15 @@
   background-color: Navy;
   text-align: left; 
 }
+#content-profile{
+  border: 1px dashed white;
+}
+#content-Education{
+  border: 1px dashed white;
+}
+#content-Experience{
+  border: 1px dashed white;
+}
 h1{
   font-family: Tempus Sans ITC, sans-serif; 
   Color: White;
