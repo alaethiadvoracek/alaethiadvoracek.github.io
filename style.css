@@ -38,10 +38,14 @@ ul{
   Color: White;
   font-size: 18px;
   text-align: center;
+  
 }
 p{
   font-family: Times New Roman, sans-serif;
   Color: White;
   font-size: 22px;
   margin-bottom: -15px;
+}
+li span{
+  postion: relative; right: 10px;
 }
