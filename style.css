@@ -6,7 +6,7 @@
   padding: 10px 150px 10px 150px;
   
   border-radius: 15px;
-  background-color: Aqua;
+  background-color: DarkTurquoise;
   text-align: left; 
 }
 h1{
@@ -16,7 +16,7 @@ h1{
 }
 h2{
   font-family: Tempus Sans ITC, sans-serif;
-  Color: black;
+  Color: Black;
   font-size: 36px;
   margin-bottom: -15px;
 }
@@ -28,7 +28,7 @@ h3{
 }
 h4{
   font-family: Tempus Sans ITC, sans-serif;
-  Color: DarkTurquoise;
+  Color:LigthTeal ;
   font-size: 20px;
   margin-bottom: -15px;
 }
