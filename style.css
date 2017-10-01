@@ -46,3 +46,8 @@ p{
   font-size: 22px;
   margin-bottom: -15px;
 }
+hr{
+  Color: Black;
+  Thickness: 2px;
+  Type: Dashed;
+}
