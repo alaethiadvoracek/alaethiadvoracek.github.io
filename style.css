@@ -32,6 +32,12 @@ h4{
   font-size: 20px;
   margin-bottom: -15px;
 }
+h6{
+  font-family: Tempus Sans ITC, sans-serif;
+  Color: Black;
+  font-size:36px;
+  margin-top: 5px;
+}
 ul{
   font-family: Times New Roman, sans-serif;
   Color: Grey;
