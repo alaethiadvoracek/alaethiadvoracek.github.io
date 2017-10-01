@@ -22,13 +22,13 @@ h2{
 }
 h3{
   font-family: Tempus Sans ITC, sans-serif;
-  Color: Teal;
+  Color: DimGrey;
   font-size: 28px;
   margin-bottom: -20px;
 }
 h4{
   font-family: Tempus Sans ITC, sans-serif;
-  Color: DarkGrey;
+  Color: Teal;
   font-size: 20px;
   margin-bottom: -15px;
 }
@@ -41,12 +41,12 @@ h6{
 }
 ul{
   font-family: Times New Roman, sans-serif;
-  Color: Grey;
+  Color: White;
   font-size: 18px;
 }
 p{
   font-family: Times New Roman, sans-serif;
-  Color: Grey;
+  Color: White;
   font-size: 22px;
   margin-bottom: -15px;
 }
