@@ -47,7 +47,6 @@ p{
   margin-bottom: -15px;
 }
 hr{
-  Color: Black;
-  Thickness: 2px;
-  Type: Dashed;
+  border-color: Black;
+  Height: 2px;
 }
