@@ -48,5 +48,7 @@ p{
 }
 hr{
   border-color: Black;
-  Height: 2px;
+  Height: 1px;
+  Border Type: Solid; 
+  Thickness: 2px;
 }
