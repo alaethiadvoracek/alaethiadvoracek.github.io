@@ -6,40 +6,40 @@
   padding: 10px 150px 10px 150px;
   
   border-radius: 15px;
-  background-color: Navy;
+  background-color: Aqua;
   text-align: left; 
 }
 h1{
   font-family: Tempus Sans ITC, sans-serif; 
-  Color: White;
+  Color: Black;
   font-size: 50px;
 }
 h2{
   font-family: Tempus Sans ITC, sans-serif;
-  Color: White;
+  Color: black;
   font-size: 36px;
   margin-bottom: -15px;
 }
 h3{
   font-family: Tempus Sans ITC, sans-serif;
-  Color:DeepSkyBlue ;
+  Color:Teal ;
   font-size: 28px;
   margin-bottom: -20px;
 }
 h4{
   font-family: Tempus Sans ITC, sans-serif;
-  Color: DeepSkyBlue;
+  Color: DarkTurquoise;
   font-size: 20px;
   margin-bottom: -15px;
 }
 ul{
   font-family: Times New Roman, sans-serif;
-  Color: AntiqueWhite;
+  Color: SlateGrey;
   font-size: 18px;
 }
 p{
   font-family: Times New Roman, sans-serif;
-  Color: AntiqueWhite;
+  Color: SlateGrey;
   font-size: 22px;
   margin-bottom: -15px;
 }
