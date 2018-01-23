@@ -1,0 +1,41 @@
+#image {
+    border-radius: 60%;
+    padding:10px;
+    margin-left: 30px;
+}
+h1 {
+    margin-left: 110px;
+    margin-top: 75px;
+    border-radius: 25%;
+    font-family: 'Macondo', cursive;
+    color: white;
+}
+#info {
+    margin-left: 25px;
+    margin-top: 55px; 
+    font-family: 'Macondo', cursive;
+    color: white; 
+}
+h4 {
+    font-family: 'Macondo', cursive;
+    color: white; 
+}
+h2{
+    font-family: 'Cormorant Garamond', serif;
+    color: white;
+    font-size: 45px;
+}
+h3 {
+    font-family: 'Macondo', cursive;
+    color: white; 
+    font-size: 31px; 
+}
+li, p {
+    font-family: 'Macondo', cursive;
+    color: white; 
+    font-size: 19px; 
+}
+
+.container {
+    background-color: rgb(94, 11, 110);
+}
